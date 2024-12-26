@@ -1,0 +1,71 @@
+# Translation of 
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: aace\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-05-05 18:04+0100\n"
+"Last-Translator: LOOPUS\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1;  plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1.1\n"
+
+msgid "OpenAI API Key"
+msgstr ""
+
+msgid "Temperature"
+msgstr ""
+
+msgid "Max tokens"
+msgstr ""
+
+msgid "Auto content"
+msgstr ""
+
+msgid "Wanted content"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Generate"
+msgstr ""
+
+msgid "Describe the content you want to generate"
+msgstr ""
+
+msgid "Facultative keywords separated by commas"
+msgstr ""
+
+msgid "The OpenAI API key isn't filled in the plugin settings. Go to Settings -> A.I Autocontent to fill it."
+msgstr ""
+
+msgid "OpenAI can not be reached"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "The texts will be written in the chosen language"
+msgstr ""
+
+
+msgid "Frequency penality"
+msgstr ""
+
+msgid "Presence penality"
+msgstr ""
+
+msgid "Number between -2.0 and 2.0. Positive values penalize new tokens based on whether they appear in the text so far, increasing the model's likelihood to talk about new topics."
+msgstr ""
+
+msgid "Number between -2.0 and 2.0. Positive values penalize new tokens based on their existing frequency in the text so far, decreasing the model's likelihood to repeat the same line verbatim."
+msgstr ""
